@@ -8,7 +8,7 @@
 - :books: Sou estudante do Alura.
 - :+1: Tenho interresse em aprender a programar.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="pointer: default">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 ## Translation...
 
